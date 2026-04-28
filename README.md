@@ -12,7 +12,6 @@
 <a href="https://linkedin.com/in/iliy4s"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/iliy4s"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:iliyas.clou6@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=iliy4s&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
 
 </div>
 
