@@ -93,8 +93,6 @@ about_me:
 
 ## 🚀 Featured Projects
 
----
-
 <div align="center">
 
 **`01`** &nbsp; 🌐 &nbsp; **CLOUD DEPLOYMENT**
@@ -107,12 +105,14 @@ about_me:
 ![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)
 ![HTTPS](https://img.shields.io/badge/HTTPS-00B388?style=flat-square&logo=letsencrypt&logoColor=white)
 ![CDN](https://img.shields.io/badge/CDN-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+```
 S3 Bucket ──► Static Website Hosting
 │
 ▼
 CloudFront CDN ──► HTTPS ──► Global Low-Latency Delivery
 │
 ✅ Fixed mobile browser HTTPS issue
+```
 
 > Deployed a 3D portfolio on AWS. Configured CloudFront as CDN for HTTPS delivery and resolved a mobile browser security issue blocking the site on HTTP.
 
@@ -133,6 +133,7 @@ CloudFront CDN ──► HTTPS ──► Global Low-Latency Delivery
 ![Docker Compose](https://img.shields.io/badge/Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Makefile](https://img.shields.io/badge/Makefile-A42E2B?style=flat-square&logo=gnu&logoColor=white)
+```
 Code Push ──► GitHub Actions
 ├── Lint
 ├── Test
@@ -141,6 +142,7 @@ Code Push ──► GitHub Actions
 ▼
 Docker Compose
 └── Multi-container App (.env secured)
+```
 
 > Containerized a web app with multi-stage Dockerfiles and wired a complete CI pipeline. Secrets handled securely via `.env` config.
 
