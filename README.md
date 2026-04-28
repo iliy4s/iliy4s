@@ -99,7 +99,7 @@ about_me:
 
 </div>
 
-### [📁 Portfolio Deployment on AWS — S3 + CloudFront](https://github.com/iliy4s/portfolio-aws-s3-cloudfront)
+### [📁 Portfolio Deployment on AWS — S3 + CloudFront](https://d2ajx3b9ogi8ek.cloudfront.net/)
 
 ![AWS](https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
 ![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)
@@ -127,7 +127,7 @@ CloudFront CDN ──► HTTPS ──► Global Low-Latency Delivery
 
 </div>
 
-### [📁 Dockerized Web Application + GitHub Actions Pipeline](https://github.com/iliy4s/docker-cicd-pipeline)
+### [📁 Dockerized Web Application + GitHub Actions Pipeline](https://github.com/iliy4s/first-Containerization)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -157,7 +157,7 @@ Docker Compose
 
 </div>
 
-### [📁 GitHub Issues Automation Script](https://github.com/iliy4s/github-issues-bash-script)
+### [📁 GitHub Issues Automation Script](https://github.com/iliy4s/shell-scripting)
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![GitHub API](https://img.shields.io/badge/GitHub%20REST%20API-171515?style=flat-square&logo=github&logoColor=white)
